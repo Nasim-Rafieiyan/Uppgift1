@@ -1,5 +1,7 @@
 package husdjurshotellet;
 
+//Interface "Isvar" 
+//By using this interface, we can just access to the method svar() in subclasses
 public interface Isvar {
 
     /**
